@@ -4,7 +4,7 @@
 
 **AI Engineer | Python Developer**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brahim-3b636b385/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brahim.engineer.it@gmail.com)
 
 </div>
@@ -32,16 +32,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-</div>
-
----
-
-## 📊 Stats
-
-<div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=brahimengineerit-ux&show_icons=true&theme=dark&hide_border=true" height="150"/>
 
 </div>
 
